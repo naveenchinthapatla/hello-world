@@ -1,1 +1,3 @@
 # Write something here...
+
+print("The application is up and running...")
